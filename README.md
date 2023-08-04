@@ -1,2 +1,3 @@
-# BaseDeDadosRPGdeMesa
- banco de dados inicial
+# RPGdeMesa
+ cadastrando players e Npcs
+ batalhas simples
